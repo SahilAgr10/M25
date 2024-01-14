@@ -22,8 +22,8 @@ public class swaping {
     }
     // Swapping without creating variable
     public static void swap2(int a , int b){
-        a = a-b;
-        b = a+b;
+        a = a-b; // assume a = 5 , b = 3
+        b = a+b; // here a will be 2
         a = b-a;
         System.out.println(" a = "+ a + " b = "+ b);
     }
