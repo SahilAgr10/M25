@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad24095d-c3d5-4812-8943-5df76e62c3cc" name="Changes" comment="leap year">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasics/swaping.java" afterDir="false" />
+    <list default="true" id="ad24095d-c3d5-4812-8943-5df76e62c3cc" name="Changes" comment="swapping">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/swaping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/swaping.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,26 @@
       <option name="project" value="LOCAL" />
       <updated>1705171083255</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="swapping">
+      <created>1705253138748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705253138748</updated>
+    </task>
+    <task id="LOCAL-00003" summary="swapping">
+      <created>1705253536003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705253536003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leap year" />
-    <option name="LAST_COMMIT_MESSAGE" value="leap year" />
+    <MESSAGE value="swapping" />
+    <option name="LAST_COMMIT_MESSAGE" value="swapping" />
   </component>
 </project>
