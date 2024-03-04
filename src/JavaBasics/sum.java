@@ -17,6 +17,6 @@ public class sum {
                 System.out.println("Invalid input. Please enter a number or 'x' to finish.");
             }
         }
-        System.out.println("Sum of all numbers entered: " + sum);
+        System.out.println("Thank you for the Inputs .\nyour Score entered is: " + sum);
     }
 }
