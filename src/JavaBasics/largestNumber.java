@@ -1,0 +1,21 @@
+package JavaBasics;
+
+import java.util.Scanner;
+
+public class largestNumber {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int largest = 0;
+        while(true){
+            String input = sc.nextLine();
+            if(input.equalsIgnoreCase("x")) break;
+            try {
+                int number = Integer.parseInt(input);
+                if(number>largest) largest = number;
+            } catch (NumberFormatException e) {
+                System.out.println("Invalid input. Please enter a number or 'x' to finish.");
+            }
+        }
+        System.out.println("Thank you for the Inputs .\nyour Score entered is: " + largest);
+    }
+}
