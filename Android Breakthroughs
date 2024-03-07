@@ -3,3 +3,5 @@ Week 1 (March 2024) :
       -Into to UI : Views and viewGroups , Nested ViewGroups
       -Attributes[sp for texts , dp ,weights for even spacing , padding , margins,center and centerCrop scaletype]
       -event driven programming[onClicks methods ,fetch any view using ids and can update view using set methods , global variables]
+      - APP 1 : court Application
+      - Resources and id's , checkbox , scrollview and Localization(icomplete)
