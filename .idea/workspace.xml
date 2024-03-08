@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad24095d-c3d5-4812-8943-5df76e62c3cc" name="Changes" comment="factors">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasics/largestNumber.java" afterDir="false" />
+    <list default="true" id="ad24095d-c3d5-4812-8943-5df76e62c3cc" name="Changes" comment="largest number">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709737273165</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="largest number">
+      <created>1709737686929</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709737686929</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,6 +217,7 @@
     <MESSAGE value="sum of n" />
     <MESSAGE value="armstrong num" />
     <MESSAGE value="factors" />
-    <option name="LAST_COMMIT_MESSAGE" value="factors" />
+    <MESSAGE value="largest number" />
+    <option name="LAST_COMMIT_MESSAGE" value="largest number" />
   </component>
 </project>
